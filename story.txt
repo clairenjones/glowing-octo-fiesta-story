@@ -1,2 +1,6 @@
 Sally was wandering around campus one day in late October. The leaves were turning colors of bright red, orange, and yellow. She attended the University of Wisconsin-Madison, and was going to graduate at the end of the semester. It had been a long but fun four years in Wisconsin, and as she looked around she realized she would miss living there. However, she was ready to move on to the next step of her life.
+<<<<<<< HEAD
 Sally must now face a choice. She is going to continue to study, or to work. It takes more tuition to continue studying. But a good job requires a graduate diploma. Until she heard a message, Sally had the final decision.
+=======
+Sally loved school so much that dhe decided to attend graduate school at the University of Michigan.
+>>>>>>> a02c8a070cfe355a037aca2c7c933c136669391a
